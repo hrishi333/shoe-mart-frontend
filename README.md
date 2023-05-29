@@ -31,6 +31,19 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## SCREENSHOTS ![Screenshot from 2023-05-27 17-58-26](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/5108ae67-2db7-4abb-83dc-321455e97977)
+
+![Screenshot from 2023-05-27 17-58-15](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/18a9f2d4-97bc-4186-961b-cbf757d5f5c0)
+
+![Screenshot from 2023-05-27 17-58-48](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/d38cdd25-6eb8-4720-b1b6-51788c8425c2)
+![Screenshot from 2023-05-27 17-58-55](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/dde8785a-2fa5-41b7-a064-2259ee3e6726)
+![Screenshot from 2023-05-27 17-59-36](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/92092015-4354-4012-9c36-0b4fd93354e1)
+![Screenshot from 2023-05-27 18-03-02](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/a56b4e77-e440-4b7a-9a72-854500e58e7b)
+![Screenshot from 2023-05-27 18-05-08](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/99733bcd-aa39-42b8-bf66-7a306f145e0a)
+![Screenshot from 2023-05-27 18-01-41](https://github.com/hrishi333/shoe-mart-frontend/assets/59025986/633d1d0d-a16e-4ba9-afee-c651dff92aa9)
+
+
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
